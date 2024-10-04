@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Product A",
+        "price": 19.99,
+        "featured": true,
+        "rating": 4.8,
+        "company": "Apple"
+    },
+    {
+        "name": "Product B",
+        "price": 29.99,
+        "featured": false,
+        "rating": 4.2,
+        "company": "Samsung"
+    },
+    {
+        "name": "iPhone 13",
+        "price": 799.99,
+        "featured": true,
+        "rating": 4.5,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy S21",
+        "price": 699.99,
+        "featured": true,
+        "rating": 4.6,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 999.99,
+        "featured": false,
+        "rating": 4.8,
+        "company": "dell"
+    },
+    {
+        "name": "Mi 11",
+        "price": 749.99,
+        "featured": true,
+        "rating": 4.4,
+        "company": "MI"
+    },
+    {
+        "name": "MacBook Pro 16",
+        "price": 2399.99,
+        "featured": true,
+        "rating": 4.7,
+        "company": "Apple"
+    },
+    {
+        "name": "Samsung Galaxy Tab S7",
+        "price": 649.99,
+        "featured": false,
+        "rating": 4.5,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell Inspiron 15",
+        "price": 499.99,
+        "featured": false,
+        "rating": 4.2,
+        "company": "dell"
+    },
+    {
+        "name": "Redmi Note 10",
+        "price": 199.99,
+        "featured": false,
+        "rating": 4.3,
+        "company": "MI"
+    },
+    {
+        "name": "Apple Watch Series 7",
+        "price": 399.99,
+        "featured": true,
+        "rating": 4.6,
+        "company": "Apple"
+    },
+    {
+        "name": "Samsung Galaxy Buds Pro",
+        "price": 199.99,
+        "featured": false,
+        "rating": 4.5,
+        "company": "Samsung"
+    }
+]

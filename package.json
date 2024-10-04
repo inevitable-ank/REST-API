@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "REST API Working",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inevitable-ank/REST-API.git"
+  },
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inevitable-ank/REST-API/issues"
+  },
+  "homepage": "https://github.com/inevitable-ank/REST-API#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
